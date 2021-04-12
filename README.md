@@ -8,3 +8,4 @@ This is my solution for this challenge made by Frontend Mentor's website. This s
 
 ## Live Preview
 
+https://luispolanco25.github.io/faq-accordion-card/
