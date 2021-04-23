@@ -144,24 +144,6 @@ main {
     display: block;
 }
 
-footer {
-    width: 100%;
-    font-size: 16px;
-    text-align: center;
-}
-
-footer p {
-    width: 100%;
-}
-
-footer a {
-    color: hsl(228, 45%, 44%); 
-}
-
-footer a:visited {
-    color: hsl(228, 45%, 44%); 
-}
-
 @media (max-width:750px) {
     html, body {
         width: 100%;
@@ -182,8 +164,8 @@ footer a:visited {
         min-width: 338px;
         width: 338px;
         align-items: center;
-        margin-top: 20%;
-        margin-bottom: 10%;
+        margin-top: 40%;
+        margin-bottom: 20px;
     }
 
     #background-pattern {
@@ -238,8 +220,4 @@ footer a:visited {
         right: 8%;
     }
 
-
-    #footer {
-        font-size: 14px;
-    }
 }
